@@ -1,0 +1,19 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift alt c" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="FileChooser.NewFile">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="shift alt w" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="RecentChanges" />
+  <action id="tasks.close" />
+</keymap>
