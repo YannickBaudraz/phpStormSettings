@@ -11,4 +11,9 @@
     <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
     <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
   </PHPCodeStyleSettings>
+  <codeStyleSettings language="SCSS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>
