@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="vsdx" type="Native" />
+      <mapping ext="side" type="Native" />
     </extensionMap>
   </component>
 </application>
