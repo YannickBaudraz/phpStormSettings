@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/NicolasGlassey/CPNV_133_Register" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/NicolasGlassey/CPNV_133_Register.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Yannick.BAUDRAZ\Documents\Projets\133_baudraz\Code\Projets_code" />
+    <option name="cloneParentDir" value="C:\Users\yanni\Documents\Projets" />
   </component>
 </application>
