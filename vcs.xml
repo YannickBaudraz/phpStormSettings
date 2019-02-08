@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/NicolasGlassey/CPNV_133_Register.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://YannickClifford@bitbucket.org/NGY_CPNV/151_2019_startproject.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\yanni\Documents\Projets" />
