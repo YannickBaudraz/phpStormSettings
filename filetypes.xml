@@ -4,6 +4,7 @@
       <mapping ext="vsdx" type="Native" />
       <mapping ext="mpp" type="Native" />
       <mapping ext="side" type="Native" />
+      <mapping pattern=".name" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
