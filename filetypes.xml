@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="otf" type="Native" />
       <mapping ext="vsdx" type="Native" />
       <mapping ext="mpp" type="Native" />
       <mapping ext="side" type="Native" />
