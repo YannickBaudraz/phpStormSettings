@@ -4,5 +4,15 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="jQuery" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <option name="frameworkVersion" value="2.1.4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Documents/Projets/CPNV/cpnv_projet-web_baudraz/app/views/assets/scripts/jquery-min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
