@@ -37,6 +37,7 @@
             <extension name="curl" />
             <extension name="date" />
             <extension name="dom" />
+            <extension name="exif" />
             <extension name="filter" />
             <extension name="hash" />
             <extension name="iconv" />
