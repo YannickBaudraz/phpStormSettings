@@ -46,6 +46,7 @@
   <ScssCodeStyleSettings>
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
     <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
+    <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </ScssCodeStyleSettings>
   <codeStyleSettings language="CSS">
     <indentOptions>
