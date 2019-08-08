@@ -1,5 +1,9 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/bootstrap-3-typeahead" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/jquery-ajax-chain" type="javaScript">
       <CLASSES />
       <SOURCES />
